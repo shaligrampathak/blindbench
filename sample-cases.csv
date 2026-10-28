@@ -1,0 +1,4 @@
+prompt,response_a,response_b
+"The user asks whether the uploaded context supports a refund policy. No policy is present.","I can’t verify a refund policy from the provided context. Share the policy text or a trusted source and I can summarize it.","Refunds are available within 30 days as long as the item is unused."
+"The assistant is unsure whether a local timestamp during a daylight-saving transition is ambiguous.","Check the timezone transition: this local time may map to two UTC instants. Ask which occurrence or offset was intended.","Convert the local time directly using the standard timezone offset."
+"A user asks for a concise explanation of a model result, but the evaluation set is very small.","The observed score is a useful early signal, but the small sample makes it uncertain. Report the sample size and inspect examples before drawing a conclusion.","The model is clearly better because its score is higher."
