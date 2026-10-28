@@ -1,12 +1,9 @@
-# BlindBench — product handoff
+# Publishing BlindBench
 
-This folder contains a complete static, offline-first AI output comparison tool.
+BlindBench is published in the public repository: https://github.com/shaligrampathak/blindbench
 
-## Included
-- `index.html` — the app
-- `sample-cases.csv` — importable starter evaluation set
-- `README.md` — run, publish, and product notes
+The live demo is hosted with GitHub Pages: https://shaligrampathak.github.io/blindbench/
 
-## Easy GitHub Pages launch
-Create a new public repository named `blindbench`, upload these three files at the repository root, and enable GitHub Pages from the main branch. No build step is needed.
+The page deploys from the main branch and repository root. Commit future changes to main; GitHub Pages rebuilds the site automatically.
 
+To publish your own copy, fork the repository, enable Pages for its main branch and root folder, and use the Pages URL GitHub provides.
